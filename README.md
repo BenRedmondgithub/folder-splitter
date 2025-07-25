@@ -11,7 +11,7 @@ One day, I got sick of the process that I've been using for the last five years 
 
 # What you are getting? 
 
-there are a few verions of the script in this repo. there is a terminal verion and a GUI verions
+There are two versions of the code in this repo. There is a terminal version and a GUI version
 
 # Photo Sorter GUI
 
@@ -135,3 +135,15 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## More about me
+
+My journey in technology began at an early age, and over the years, I've built a strong foundation in hardware and software maintenance, troubleshooting, and ticketing management systems. 🌐 Aspiring Web Designer & Developer 👩‍💻 Currently exploring the exciting world of Web Design while honing my skills in: 🖥️ Programming Languages: C#, C++, Python 🗄️ Databases: Building and managing databases with MySQL 💡 Passionate about creating dynamic and user-friendly digital experiences. 📚 Constantly learning and growing, one line of code at a time.
+
+🌍  I'm based in Ireland
+✉️  You can contact me at redmond.ben70@gmail.com
+🧠  I'm learning Godot for me, OOP C# for college, and tkinter GUI Python
+🤝  I'm open to collaborating on Feel free to reach out! I look forward to connecting and collaborating with you.
+⚡  I'm passionate about Video Games, Music, and all things Internet.
+
+
