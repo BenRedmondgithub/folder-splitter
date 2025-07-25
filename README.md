@@ -5,11 +5,11 @@ Hey, my name is Ben Redmond. I am a Student of Web design & Software development
 
 So, I shoot a lot when I'm on location, and what breaks my heart is that after the shoot, I have around 250 to 300 images, and I have to sort them into folders, RAW and JPEG, for the next step which is the editing.
 
-# The solutions
+# The solution
 
 One day, I got sick of the process that I've been using for the last five years and decided to develop a script to sort through the RAW and JPEG files, then place them into their own folders. I used Python for ease of use. The first script worked well; however, you needed to manually feed it the path in the source code, which was fine, but I wanted a GUI to make it more useful. For this step, I used tkinter cause I just needed something simple and clean.
 
-# What you are getting? 
+# What are you getting? 
 
 There are two versions of the code in this repo. There is a terminal version and a GUI version
 
