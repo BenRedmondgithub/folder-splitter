@@ -9,6 +9,7 @@ import time
 # Define file extensions for RAW and JPEG image files
 RAW_EXTENSIONS = [".cr2", ".nef", ".arw", ".dng", ".rw2", ".orf", ".sr2"]
 JPEG_EXTENSIONS = [".jpg", ".jpeg"]
+VIDEO_EXTENSIONS = [".mp4", ".mov", ".avi", ".mkv"]
 
 class RetroLoader:
     def __init__(self, parent):
@@ -140,7 +141,7 @@ def sort_photos(folder, loader=None):
         elif ext in JPEG_EXTENSIONS:
             safe_move(file_path, jpeg_folder)
             moved += 1
-        elif ext in [".mp4", ".mov", ".avi", ".mkv"]:
+        elif ext in VIDEO_EXTENSIONS:
             safe_move(file_path, video_folder)
             moved += 1
 
