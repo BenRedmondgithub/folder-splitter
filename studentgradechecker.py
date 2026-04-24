@@ -9,18 +9,18 @@ name = get_name()
 print("hello " + name)
 
 print("enter your grade: ")
-grade = input()
-print("your grade is " + grade)
+grade = int(input())
+print("your grade is " + str(grade))
 
 
 
-if grade > "90":
+if grade > 90:
     print("you got an A, you nerd!")
-elif grade > "80":
+elif grade > 80:
     print("hey man,nice shot")
-elif grade > "70":
+elif grade > 70:
     print("you passed, barely!")
-elif grade < "60":
+elif grade < 60:
     print("you failed, you dumbass!")
 else:
     print("invalid grade")
