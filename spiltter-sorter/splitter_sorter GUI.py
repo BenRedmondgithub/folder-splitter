@@ -15,7 +15,7 @@ class RetroLoader:
     def __init__(self, parent):
         self.window = tk.Toplevel(parent)
         self.window.title("Processing...")
-        self.window.geometry("400x200")
+        self.window.geometry("800x200")
         self.window.resizable(False, False)
         self.window.transient(parent)
         self.window.grab_set()
