@@ -1,6 +1,6 @@
 import random
 
-myQuote = ["Fuck me dude", "Thanks to God, Jesus, and the bear conductor.", "dickballs", "Fuck yeah dude", "CLUNKLES, USE YOUR FISTS.", "Am I fucking over", "what a mark", "This shit pulls no punches at all.", "This has one job and it is to ruin my day"]
+myQuote = ["Fuck me dude", "Thanks to God, Jesus, and the bear conductor.", "dickballs", "Fuck yeah dude", "CLUNKLES, USE YOUR FISTS.", "Am I fucking over", "what a mark", "This shit pulls no punches at all.", "This has one job and it is to ruin my day", "BOI ABSOLUTELY ROTUND"]
 
 while True:
 
